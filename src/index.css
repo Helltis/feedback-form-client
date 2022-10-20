@@ -1,0 +1,16 @@
+body {
+  font-family: "Apercu Arabic Pro";
+}
+
+@font-face {
+  font-family: "Apercu Arabic Pro";
+  src: url("./fonts/ApercuArabicPro/ApercuArabicPro-Regular.woff2")
+    format("woff2");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  /* box-sizing: border-box; */
+  /* display: flex; */
+}
