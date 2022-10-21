@@ -11,7 +11,8 @@ export const Footer = styled.footer`
   background-color: #ffffff;
   overflow: hidden;
   @media (max-width: 768px) {
-    padding: 40px 0 50px 150px;
+    padding: 40px 0 50px 5%;
+    border: none;
   }
 `;
 export const Social = styled.a`
