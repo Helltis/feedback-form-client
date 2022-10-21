@@ -24,6 +24,11 @@ function FooterDecorations() {
     position: absolute;
     right: 15%;
     top: 0;
+    @media (max-width: 768px) {
+      transform: rotate(180deg);
+      bottom: 0;
+      top: auto;
+    }
   `;
   return (
     <>
