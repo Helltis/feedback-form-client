@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7b8b89a.css",
+    "main.js": "/static/js/main.84879d57.js",
+    "static/media/Mask Group.svg": "/static/media/Mask Group.5d2e658ab667ff8fa8758d42ded65abf.svg",
+    "static/media/ApercuArabicPro-Regular.woff2": "/static/media/ApercuArabicPro-Regular.9454d41e9c47cdaaa6a2.woff2",
+    "static/media/Cloud.svg": "/static/media/Cloud.40bf895c3866c86c27f3e2a2dddd0895.svg",
+    "static/media/goodie2.svg": "/static/media/goodie2.86c80a42f0643c0248d0d928a825c92e.svg",
+    "static/media/goodie3.svg": "/static/media/goodie3.179e57058940ba845986cde83b6c7412.svg",
+    "static/media/goodie1.svg": "/static/media/goodie1.f3192839a60e1b61e981e79b27296124.svg",
+    "static/media/twitter.svg": "/static/media/twitter.0c6752ff5b56c74d18a120bf91872d17.svg",
+    "static/media/pinterest.svg": "/static/media/pinterest.de56188d3f6ff5f66cb9ec1ea656b8de.svg",
+    "static/media/goodie4.svg": "/static/media/goodie4.f7c148902b7ceda8a81b19198d661d24.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.2c528a224ae77b3c2a15817bce59d293.svg",
+    "index.html": "/index.html",
+    "static/media/facebook.svg": "/static/media/facebook.5b690d5484e1eccb17fe56db92c10c81.svg",
+    "main.a7b8b89a.css.map": "/static/css/main.a7b8b89a.css.map",
+    "main.84879d57.js.map": "/static/js/main.84879d57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7b8b89a.css",
+    "static/js/main.84879d57.js"
+  ]
+}
