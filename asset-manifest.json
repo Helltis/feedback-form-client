@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/feedback-form-client/static/css/main.c26da537.css",
-    "main.js": "/feedback-form-client/static/js/main.7b0aac94.js",
+    "main.js": "/feedback-form-client/static/js/main.da4e19fe.js",
     "static/media/Mask Group.svg": "/feedback-form-client/static/media/Mask Group.5d2e658ab667ff8fa8758d42ded65abf.svg",
     "static/media/ApercuArabicPro-Regular.woff2": "/feedback-form-client/static/media/ApercuArabicPro-Regular.9454d41e9c47cdaaa6a2.woff2",
     "static/media/Cloud.svg": "/feedback-form-client/static/media/Cloud.40bf895c3866c86c27f3e2a2dddd0895.svg",
@@ -15,10 +15,10 @@
     "static/media/linkedin.svg": "/feedback-form-client/static/media/linkedin.2c528a224ae77b3c2a15817bce59d293.svg",
     "static/media/facebook.svg": "/feedback-form-client/static/media/facebook.5b690d5484e1eccb17fe56db92c10c81.svg",
     "main.c26da537.css.map": "/feedback-form-client/static/css/main.c26da537.css.map",
-    "main.7b0aac94.js.map": "/feedback-form-client/static/js/main.7b0aac94.js.map"
+    "main.da4e19fe.js.map": "/feedback-form-client/static/js/main.da4e19fe.js.map"
   },
   "entrypoints": [
     "static/css/main.c26da537.css",
-    "static/js/main.7b0aac94.js"
+    "static/js/main.da4e19fe.js"
   ]
 }
