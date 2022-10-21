@@ -7,11 +7,17 @@ function FooterDecorations() {
     position: absolute;
     left: 3%;
     bottom: -40%;
+    @media (max-width: 768px) {
+      display: none;
+    }
   `;
 
   const FootGoodie3 = styled.img`
     position: absolute;
     right: -2%;
+    @media (max-width: 768px) {
+      display: none;
+    }
   `;
 
   const FootGoodie4 = styled.img`

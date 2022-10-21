@@ -29,24 +29,36 @@ function Decorations() {
     z-index: -900;
     right: 0;
     top: 0;
+    @media (max-width: 768px) {
+      display: none;
+    }
   `;
   const Goodie1 = styled.img`
     position: absolute;
     z-index: -850;
     right: 550px;
     bottom: 350px;
+    @media (max-width: 768px) {
+      display: none;
+    }
   `;
   const Goodie2 = styled.img`
     position: absolute;
     z-index: -870;
     right: 370px;
     bottom: 150px;
+    @media (max-width: 768px) {
+      right: -15%;
+    }
   `;
   const Goodie3 = styled.img`
     position: absolute;
     z-index: -870;
     top: 100px;
     left: 100px;
+    @media (max-width: 768px) {
+      top: 5%;
+    }
   `;
 
   return (

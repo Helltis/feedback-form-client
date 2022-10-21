@@ -17,6 +17,9 @@ export const Form = styled.form`
     font-size: 18px;
     width: 560px;
     font-family: "Apercu Arabic Pro";
+    @media (max-width: 768px) {
+      width: 80%;
+    }
   }
 `;
 export const Name = styled.input`
@@ -38,4 +41,7 @@ export const Message = styled.textarea`
   font-size: 18px;
   width: 560px;
   font-family: "Apercu Arabic Pro";
+  @media (max-width: 768px) {
+    width: 80%;
+  }
 `;

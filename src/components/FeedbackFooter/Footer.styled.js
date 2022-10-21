@@ -10,6 +10,9 @@ export const Footer = styled.footer`
   gap: 26px;
   background-color: #ffffff;
   overflow: hidden;
+  @media (max-width: 768px) {
+    padding: 40px 0 50px 150px;
+  }
 `;
 export const Social = styled.a`
   display: flex;
