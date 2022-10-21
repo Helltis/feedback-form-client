@@ -24,13 +24,13 @@ function Form() {
     e.preventDefault();
     const data = new FormData(e.target),
       feedback = Object.fromEntries(data.entries());
+    e.target.reset();
     fetch("https://feedback-form-app.adaptable.app/feedback", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(feedback),
     }).then(() => {
       notify();
-      e.target.reset();
     });
   };
 
