@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a7b8b89a.css",
-    "main.js": "/static/js/main.84879d57.js",
+    "main.js": "/static/js/main.be9dd226.js",
     "static/media/Mask Group.svg": "/static/media/Mask Group.5d2e658ab667ff8fa8758d42ded65abf.svg",
     "static/media/ApercuArabicPro-Regular.woff2": "/static/media/ApercuArabicPro-Regular.9454d41e9c47cdaaa6a2.woff2",
     "static/media/Cloud.svg": "/static/media/Cloud.40bf895c3866c86c27f3e2a2dddd0895.svg",
@@ -15,10 +15,10 @@
     "index.html": "/index.html",
     "static/media/facebook.svg": "/static/media/facebook.5b690d5484e1eccb17fe56db92c10c81.svg",
     "main.a7b8b89a.css.map": "/static/css/main.a7b8b89a.css.map",
-    "main.84879d57.js.map": "/static/js/main.84879d57.js.map"
+    "main.be9dd226.js.map": "/static/js/main.be9dd226.js.map"
   },
   "entrypoints": [
     "static/css/main.a7b8b89a.css",
-    "static/js/main.84879d57.js"
+    "static/js/main.be9dd226.js"
   ]
 }
